@@ -5,9 +5,9 @@
 </picture>
 
 
-![GitHub last commit](https://img.shields.io/github/last-commit/shubhanshut31/weather-dashboard?style=for-the-badge)
+[GitHub last commit](https://img.shields.io/github/last-commit/ritishraj/weather-dashboard?style=for-the-badge)
 
-Check out my [Portfolio](https://shubhanshuportfolio.netlify.app/)
+Check out my [Portfolio](https://ritishraj.github.io))
 
 # <h1 align='center'>🌦️Weather Dashboard App</h1>
 
@@ -188,5 +188,6 @@ npm run build
 This project is licensed under the MIT License - see the LICENSE.md file for details.
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/cb7b0f93-ff2b-4a5c-aff9-d4c751669c7a/deploy-status)](https://app.netlify.com/projects/weather-dashboardapp/deploys)
-#   W e a t h e r -  
+#   W e a t h e r - 
+ 
  
