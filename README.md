@@ -145,7 +145,7 @@ To run this project locally, follow these steps:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/shubhanshut31/weather-dashboard-main
+git clone https://github.com/ritishraj/weather-dashboard-main
 cd your-repo
 ```
 
@@ -178,8 +178,8 @@ npm run build
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ritishraj/" target="blank"><img align="center" src="https://raw.githubusercontent.com/shubhanshut31/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shubhanshut310/" height="30" width="40" /></a> $~~~$
-<a href="https://www.leetcode.com/shubhanshut31" target="blank"><img align="center" src="https://raw.githubusercontent.com/shubhanshut31/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shubhanshu tiwari" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/ritishraj/" target="blank"><img align="center" src="https://raw.githubusercontent.com/ritishraj/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ritishraj/" height="30" width="40" /></a> $~~~$
+<a href="https://www.leetcode.com/ritishraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/shubhanshut31/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shubhanshu tiwari" height="30" width="40" /></a>
 </p>
 
 -------------------------------------------------
